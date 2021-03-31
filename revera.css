@@ -1,0 +1,24 @@
+.brand {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.home {
+  color: rgb(240, 77, 77);
+}
+
+/* .grey {
+    color: rgb(170, 169, 169);
+} */
+
+.red-row {
+  color: white;
+  background-color: rgb(240, 77, 77);
+  text-align: center;
+  padding: 50px;
+}
+
+.red-span {
+  color: rgb(240, 77, 77);
+}
